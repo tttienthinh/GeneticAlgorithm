@@ -1,3 +1,4 @@
 .gitignore
 venv
 .idea
+6-Trading/1-Data creation/*
