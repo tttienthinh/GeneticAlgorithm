@@ -1,0 +1,3 @@
+[submodule "6-Trading/TradingEnv-v.0"]
+	path = 6-Trading/TradingEnv-v.0
+	url = git@github.com:tttienthinh/TradingEnv-v.0.git
